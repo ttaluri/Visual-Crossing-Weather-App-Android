@@ -1,5 +1,5 @@
 ## Author: Tejasree Taluri 
-## This Android app supports - API 35 - Android SDK
+### This Android app supports - API 35 - Android SDK
 #### This app displays a variety of weather data for a specified location – current weather, hourly forecast, and daily forecast (15 days). 
 #### The app is made up of 2 activities – the home weather screen and the daily forecast screen. 
 #### The weather data comes from the Visual Crossing Weather API. 
